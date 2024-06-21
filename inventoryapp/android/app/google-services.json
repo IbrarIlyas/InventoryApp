@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268994840057",
+    "project_id": "bizitpos",
+    "storage_bucket": "bizitpos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268994840057:android:04b0ba2e21ee6b9dbfe928",
+        "android_client_info": {
+          "package_name": "com.example.inventoryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRXQblrWICYCchUKYsVmMLLIh-u_Q9bTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
